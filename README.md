@@ -3,7 +3,7 @@
 # Hardware-accelerated Data Compression using BIN/BLISS
 
 [![MIT Licensed](https://img.shields.io/github/license/jracevedob/low-latency-data-compression)](https://github.com/jracevedob/MPSoC_Networking/blob/main/LICENSE)
-[![Build Status](https://github.com//jracevedob/low-latency-data-compression/actions/workflows/build.yml/badge.svg)](https://github.com//jracevedob/low-latency-data-compression/actions)
+[![Build Status](https://github.com//jracevedob/low-latency-data-compression/actions/workflows/main.yml/badge.svg)](https://github.com//jracevedob/low-latency-data-compression/actions)
 [![Documentation Status](https://readthedocs.org/projects/graphriccicurvature/badge/?version=latest)](https://github.com/jracevedob/low-latency-data-compression/wiki)
 [![Github All Releases](https://img.shields.io/github/downloads/jracevedob/low-latency-data-compression/total.svg)]()
 
@@ -13,7 +13,7 @@
 ## Quick Start
 
 ### Hardware 
-This work has been carried out using the Xilinx's ZCU104 Moulti-processor System-on-Chip.
+This work has been carried out using the Xilinx's ZCU104 Multi-processor System-on-Chip.
 
 ### Software
 For the development and implementation of the hardware accelerators, we employed Xilinx Vitis AI and Vivado 2020.2 as Software Development Kit (SDK). The algorithm was firstly written in Python and benchmarked in  
@@ -26,7 +26,7 @@ Currently, we are working in the writing of a publication where we are going to 
 ```
 @Article{acevedo2022binbliss,
 AUTHOR = {Acevedo, Javier and Ulbricht, Marian and Seeling, Patrick and Fitzek, Frank H. P. },
-TITLE = {Blink: Ultrafast Optical Ethernet Communication using Multi-processor System-on-Chip},
+TITLE = {Ultra Low-Latency Data Compression with Binary Indicated Numbers and Bit-Level Integrated Scalability Support,
 JOURNAL = {},
 VOLUME = {},
 YEAR = {2022},
