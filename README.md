@@ -1,6 +1,6 @@
 
 
-# Hardware-accelerated Data Compression usign BIN/BLISS
+# Hardware-accelerated Data Compression using BIN/BLISS
 
 [![MIT Licensed](https://img.shields.io/github/license/jracevedob/low-latency-data-compression)](https://github.com/jracevedob/MPSoC_Networking/blob/main/LICENSE)
 [![Build Status](https://github.com//jracevedob/low-latency-data-compression/actions/workflows/build.yml/badge.svg)](https://github.com//jracevedob/MPSoC_Networking/actions)
